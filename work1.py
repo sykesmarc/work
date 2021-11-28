@@ -1,3 +1,3 @@
 print("Hola")
-print("Como estas?")
+print("Como està?")
 print("Bien y tu?")
